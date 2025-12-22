@@ -1,0 +1,1 @@
+print('bharat mata ki jai')
