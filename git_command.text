@@ -1,0 +1,31 @@
+   3 python testing.py
+   4 ls -l
+   5 ls
+   6 ls -l
+   7 ls -l
+   8 clear
+   9 git init
+  10 dir
+  11 git init
+  12 dir
+  13 clear
+  14 git status
+  15 git add testing.py
+  16 git status
+  17 git status
+  18 git rm --testing.py
+  19 git rm --cashed testing.py
+  20 clear
+  21 git status
+  22 git commit -m "added testing files"
+  23 git config --global user.email "adityabobade135@gmai... 
+  24  git config --global user.name "adityabob135"
+  25 git commit -m "added testing files"
+  26 git status
+  27 clear
+  28  rm testing.py
+  29 git status
+  30 git restore testing.py
+  31 git statust_command
+  32 git history
+  cvxfvfda
